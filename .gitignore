@@ -1,0 +1,7 @@
+project
+target
+.idea
+Checkpoint
+STATE-*
+metastore_db
+derby.log
