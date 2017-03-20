@@ -37,7 +37,7 @@ This app live streams tweets from twitter and filters tweets from India, then de
 
 # License
 
-See [Liscence](https://github.com/sahilsareen/LoveIsInTheAir/blob/master/LICENSE)
+See [License](https://github.com/sahilsareen/LoveIsInTheAir/blob/master/LICENSE)
 
 # Author
 
